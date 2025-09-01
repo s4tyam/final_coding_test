@@ -16,7 +16,6 @@ public class Product {
 	
 	
 	public Product(int productId, String productName, String productType, double price) {
-		super();
 		this.productId = productId;
 		this.productName = productName;
 		this.productType = productType;
